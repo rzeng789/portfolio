@@ -5,6 +5,7 @@ Welcome to my portfolio! I'm a dual-degree candidate at UC Santa Barbara pursuin
 Throughout my internships and academic journey, I’ve worked on projects ranging from real estate conversion and credit fund modeling to biological data analysis and market strategy consulting. While some of my most technically advanced work—particularly involving confidential real estate conversion models and investor materials—cannot be publicly shared, I've included a few public-facing projects below to showcase my analytical workflow and modeling style.
 
 🔍 Featured Projects
+
 **🧮 Cubic Spline Extrapolation Stress Test · Python**  
 - Built NumPy/SciPy harness on 120+ random grids to probe edge behavior  
 - Found natural splines flatten past domain; patched boundary logic; added unit tests

@@ -14,7 +14,15 @@ Throughout my internships and academic journey, I’ve worked on projects rangin
 - Ingested 1-min Bitstamp data to daily features, engineered lags and volumes  
 - Benchmarked AR(1), OLS, Elastic Net, Random Forest with rolling TS CV; best RMSE ≈ 2.9% (barely beats mean)
 
-
+**🎮 Pokémon Type Predictor · R (tidymodels)**  
+- Dataset: 800+ Pokémon with 12 features (base stats, height, weight, generation, abilities)  
+- Preprocessing: one-hot encode generation & abilities, center/scale stats, PCA to 30 components  
+- Models & tuning:  
+  - Multinomial GLMNET (α=0.5, λ tuned to 0.02) → 72 % accuracy  
+  - Ranger RF (mtry=4, trees=500, min_n=5) → 85 % accuracy  
+- Evaluation: RF recall 95 % on common types (Water, Normal), precision 60 % on rare types (Fairy, Steel); macro F1 ≈ 0.78  
+- Next steps: apply SMOTE and class-weighted sampling to boost minority-type recall and reduce bias
+ 
 **💎 Diamond Pricing Model Regression · Python**  
 - Used multiple and log-transformed regression models to predict diamond prices based on carat, cut, depth, and color.
 - Built and refined regression models with R² > 0.86

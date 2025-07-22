@@ -21,6 +21,11 @@ Throughout my internships and academic journey, I’ve worked on projects rangin
 - Conducted Spearman correlation analysis and backward AIC-based feature selection
 - Performed residual diagnostics and multicollinearity checks
 
+**📊 Stochastic Simulation & Option Pricing · Python**  
+- Simulated Brownian motion & Brownian bridge with a Karhunen–Loève expansion and custom eigenfunctions/eigenvalues. 
+- Wrote Euler–Maruyama engines for GBM and CIR and matched Monte Carlo mean/variance to theory (CIR Var ≈ 0.0125) 
+- Cross-checked analytics vs simulation: P(S₂<40) ≈ 0.961, Black–Scholes call ≈ $24.56, IV ≈ 46.9%. 
+
 🛑 Note on Confidentiality
 Some of my most impactful work—particularly those involving real estate acquisitions, private equity fundraising, and credit portfolio strategies—contains proprietary financial data and cannot be publicly posted. Please reach out if you’d like to discuss these experiences further in a one-on-one setting.
 

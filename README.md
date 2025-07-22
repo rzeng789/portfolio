@@ -15,7 +15,7 @@ Throughout my internships and academic journey, I’ve worked on projects rangin
 - Benchmarked AR(1), OLS, Elastic Net, Random Forest with rolling TS CV; best RMSE ≈ 2.9% (barely beats mean)
 
 
-**💎 Diamond Price Regression · R**  
+**💎 Diamond Pricing Model Regression · Python**  
 - Used multiple and log-transformed regression models to predict diamond prices based on carat, cut, depth, and color.
 - Built and refined regression models with R² > 0.86
 - Conducted Spearman correlation analysis and backward AIC-based feature selection

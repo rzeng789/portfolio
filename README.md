@@ -13,17 +13,12 @@ Throughout my internships and academic journey, I’ve worked on projects rangin
 - Ingested 1-min Bitstamp data to daily features, engineered lags and volumes  
 - Benchmarked AR(1), OLS, Elastic Net, Random Forest with rolling TS CV; best RMSE ≈ 2.9% (barely beats mean)
 
-💎 Diamond Price Forecasting
+
+**💎 Diamond Price Regression · R**  
 - Used multiple and log-transformed regression models to predict diamond prices based on carat, cut, depth, and color.
 - Built and refined regression models with R² > 0.86
 - Conducted Spearman correlation analysis and backward AIC-based feature selection
 - Performed residual diagnostics and multicollinearity checks
-
-🐚 Abalone Age Prediction
-- Applied regression and KNN models to biological datasets to predict abalone age based on physical features.
-- Engineered features and validated models using train-test splits
-- Compared predictive performance using RMSE and R²
-- Interpreted biological relevance of predictors using statistical insights
 
 🛑 Note on Confidentiality
 Some of my most impactful work—particularly those involving real estate acquisitions, private equity fundraising, and credit portfolio strategies—contains proprietary financial data and cannot be publicly posted. Please reach out if you’d like to discuss these experiences further in a one-on-one setting.

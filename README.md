@@ -1,6 +1,6 @@
 # Portfolio
 👋 Hi, I'm Ruilan (Helen) Zeng
-Welcome to my portfolio! I'm a dual-degree candidate at UC Santa Barbara pursuing a B.S. in Financial Mathematics & Statistics and a B.A. in Economics & Accounting, with international experience at Sciences Po Paris and The University of Hong Kong. My interests lie at the intersection of quantitative finance, machine learning, and data-driven decision making.
+Welcome to my portfolio! I'm a dual-degree candidate at UC Santa Barbara pursuing a B.S. in Financial Mathematics & Statistics and a B.A. in Economics & Accounting, with international experience at Sciences Po Paris and The University of Hong Kong. My interests lie at the intersection of quantitative finance, AI machine learning, and data-driven decision making.
 
 Throughout my internships and academic journey, I’ve worked on projects ranging from real estate conversion and credit fund modeling to biological data analysis and market strategy consulting. While some of my most technically advanced work—particularly involving confidential real estate conversion models and investor materials—cannot be publicly shared, I've included a few public-facing projects below to showcase my analytical workflow and modeling style.
 
